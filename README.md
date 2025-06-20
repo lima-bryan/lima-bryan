@@ -32,7 +32,7 @@ como Dev Front-end jr (quem sabe um Full Stack jr 👀😉)🔍 .</p>
 
 <div>
 <a href="mailto:bryanbrg98@gmail.com" taget="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-<a href="www.linkedin.com/in/ bryan-lima-6004571ba" taget="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="www.linkedin.com/in/bryan-lima-6004571ba"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 
 ##
