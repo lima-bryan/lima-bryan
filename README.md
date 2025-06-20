@@ -13,15 +13,16 @@ como Dev Front-end jr (quem sabe um Full Stack jr 👀😉)🔍 .</p>
 - 🚀 Se você é Recruiter ou Headhunter e se interessou pelo meu perfil, me manda um e-mail! Terei o prazer de enviar meu currículo atualizado. 😀
 ##
 
-<div> 
+<div>  <!--Api dos Status -->
   <p align="center">
-  <a href="https://github.com/laryscampark](https://github.com/lima-bryan">
+  <a href="https://github.com/lima-bryan">
     <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lima-bryan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=180"/>
     <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lima-bryan&layout=compact&langs_count=8&theme=algolia&cache_seconds=180"/>
   </a>
 </p>
 </div>
 
+  <!--Icones -->
 <div style="display: inline_block" align="center"> <br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,14 +31,15 @@ como Dev Front-end jr (quem sabe um Full Stack jr 👀😉)🔍 .</p>
 
 ##
 
-<div>
- <!--
-<a href="mailto:bryanbrg98@gmail.com" taget="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-<a href="www.linkedin.com/in/bryan-lima-6004571ba"> </a>  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >  -->
+<div> <!--Icones dos contatos -->
+<a href="mailto:bryanbrg98@gmail.com" taget="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+<a href="https://www.linkedin.com/in/bryan-lima-6004571ba/" target="_blank"> <img align="left" alt="LinkedIn" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
+
 </div>
 
-##
 
+##
+<!--Cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lima-bryan/lima-bryan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lima-bryan/lima-bryan/output/github-contribution-grid-snake.svg">
