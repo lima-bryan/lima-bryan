@@ -3,7 +3,7 @@
 <p> Olá 👋🏾! Me chamo Bryan e sou apaixonado por tecnologia e inovação. Sou formado em Sistemas de Informação pela FAETERJ e busco a minha primeira oportunidade de emprego
 como Dev Front-end jr (quem sabe um Full Stack jr 👀😉)🔍 .</p>
 <p> Atualmente, dedico meu tempo ao estudo, então sempre estou estudando HTML, CSS, JavaScript e frameworks modernos voltados para o Front-End. </p>
-<p> Estagiei como Suporte Técnico, aprendi muito mas tive que ativar o “modo sobrevivência”. 😅 Foi aí que percebi que talvez fosse hora de explorar novos caminhos. 💻➡️🎨 (hello, Front-End!))</p>
+<p> Estagiei como Suporte Técnico, aprendi muito mas tive que ativar o “modo sobrevivência”. 😅 Foi aí que percebi que talvez fosse hora de explorar novos caminhos. 💻➡️🎨 (hello, Front-End e Back-End!))</p>
 
 ##
 - 🌱 Atualmente estou fazendo o Bootcamp de Front-End do Banco Santander - 2025, termino no mês de agosto ou antes.
