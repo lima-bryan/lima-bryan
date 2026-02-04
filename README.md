@@ -1,7 +1,6 @@
  <h1 align="center"> WELCOME GUYS 👋🏾  <!-- <p> Bryan aqui  </p> -->  </h1> 
    
-<p> Olá 👋🏾! Me chamo Bryan, sou formado em Sistemas de Informação pela FAETERJ e busco a minha primeira oportunidade de emprego
-como Dev Front-end jr (quem sabe um Full Stack jr 👀😉)🔍 .</p>
+<p> Olá 👋🏾! Me chamo Bryan, sou formado em Sistemas de Informação pela FAETERJ trabalho em uma Startup em SP sou dev full-jr 🐿️👀) .</p>
 <p> Atualmente, dedico meu tempo ao estudo, então sempre estou estudando HTML, CSS, JavaScript e frameworks modernos voltados para o Front-End. </p>
 <p> Estagiei como Suporte Técnico e aprendi muito mas tive que ativar o “modo sobrevivência”. 😅 Foi aí que percebi que talvez fosse hora de explorar novos caminhos. 💻➡️🎨 (hello, Front-End e Back-End!))</p>
 
@@ -27,6 +26,8 @@ como Dev Front-end jr (quem sabe um Full Stack jr 👀😉)🔍 .</p>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Laravel" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Rafa-Vuejs" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
